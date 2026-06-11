@@ -13,11 +13,11 @@ A console-based Java chatbot with user authentication and AI-powered responses v
 
 ### Login & Registration
 
-![Login Screen](assets/login-screen.png)
+![Login Screen](https://github.com/sochindey7431/ChatBot-Project-Version-2.0/blob/a770616982ad86a4f8b02211e60d631d46ce487e/Screenshot%202026-06-11%20133658.png)
 
 ### Chat Interface
 
-![Chat Screen](assets/chat-screen.png)
+![Chat Screen](https://github.com/sochindey7431/ChatBot-Project-Version-2.0/blob/a770616982ad86a4f8b02211e60d631d46ce487e/Screenshot%202026-06-11%20134155.png)
 
 ## Project Structure
 
